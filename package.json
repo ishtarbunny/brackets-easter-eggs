@@ -1,0 +1,12 @@
+{
+    "name": "brackets-easter-eggs",
+    "title": "Easter Eggs for Brackets",
+    "description": "Hit Ctrl-Shift-E to add an easter bunny message at the cursor position.",
+    "homepage":"https://github.com/ishtarbunny/brackets-easter-eggs",
+    "version": "1.0.0",
+    "author": "Ishtar Bunny",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
